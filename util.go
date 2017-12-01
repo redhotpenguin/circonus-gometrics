@@ -62,7 +62,10 @@ func (m *CirconusMetrics) snapCounters() map[string]uint64 {
 		c[n] = v
 	}
 	if m.resetCounters && len(c) > 0 {
-		m.counters = make(map[string]uint64)
+		for key, val := range m.counters {
+			delete(m.counters, key)
+		}
+		//	m.counters = make(map[string]uint64)
 	}
 
 	for n, f := range m.counterFuncs {
