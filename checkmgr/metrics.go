@@ -5,7 +5,7 @@
 package checkmgr
 
 import (
-	"github.com/circonus-labs/circonus-gometrics/api"
+	"github.com/redhotpenguin/circonus-gometrics/api"
 )
 
 // IsMetricActive checks whether a given metric name is currently active(enabled)

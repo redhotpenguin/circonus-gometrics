@@ -19,8 +19,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/circonus-labs/circonus-gometrics/api"
-	"github.com/circonus-labs/circonus-gometrics/api/config"
+	"github.com/redhotpenguin/circonus-gometrics/api"
+	"github.com/redhotpenguin/circonus-gometrics/api/config"
 )
 
 var (

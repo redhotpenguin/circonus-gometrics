@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/circonus-labs/circonus-gometrics/api/config"
+	"github.com/redhotpenguin/circonus-gometrics/api/config"
 )
 
 // CheckBundleMetrics defines metrics for a specific check bundle. See https://login.circonus.com/resources/api/calls/check_bundle_metrics for more information.

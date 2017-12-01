@@ -15,8 +15,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/circonus-labs/circonus-gometrics/api"
-	"github.com/circonus-labs/circonus-gometrics/api/config"
+	"github.com/redhotpenguin/circonus-gometrics/api"
+	"github.com/redhotpenguin/circonus-gometrics/api/config"
 )
 
 // UpdateCheck determines if the check needs to be updated (new metrics, tags, etc.)

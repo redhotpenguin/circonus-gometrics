@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/circonus-labs/circonus-gometrics/api"
+	"github.com/redhotpenguin/circonus-gometrics/api"
 )
 
 func TestIsMetricActive(t *testing.T) {

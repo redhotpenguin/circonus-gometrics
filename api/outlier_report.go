@@ -13,7 +13,7 @@ import (
 	"net/url"
 	"regexp"
 
-	"github.com/circonus-labs/circonus-gometrics/api/config"
+	"github.com/redhotpenguin/circonus-gometrics/api/config"
 )
 
 // OutlierReport defines a outlier report. See https://login.circonus.com/resources/api/calls/report for more information.

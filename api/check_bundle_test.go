@@ -14,7 +14,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/circonus-labs/circonus-gometrics/api/config"
+	"github.com/redhotpenguin/circonus-gometrics/api/config"
 )
 
 var (

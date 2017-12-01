@@ -41,9 +41,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/circonus-labs/circonus-gometrics/api"
-	"github.com/circonus-labs/circonus-gometrics/checkmgr"
 	"github.com/pkg/errors"
+	"github.com/redhotpenguin/circonus-gometrics/api"
+	"github.com/redhotpenguin/circonus-gometrics/checkmgr"
 )
 
 const (

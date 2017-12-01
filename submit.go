@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/circonus-labs/circonus-gometrics/api"
+	"github.com/redhotpenguin/circonus-gometrics/api"
 	"github.com/hashicorp/go-retryablehttp"
 	"github.com/pkg/errors"
 )

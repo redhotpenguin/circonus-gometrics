@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/circonus-labs/circonus-gometrics/api"
+	"github.com/redhotpenguin/circonus-gometrics/api"
 	"github.com/pkg/errors"
 	"github.com/tv42/httpunix"
 )

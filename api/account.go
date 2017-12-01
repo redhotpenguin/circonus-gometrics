@@ -14,7 +14,7 @@ import (
 	"net/url"
 	"regexp"
 
-	"github.com/circonus-labs/circonus-gometrics/api/config"
+	"github.com/redhotpenguin/circonus-gometrics/api/config"
 )
 
 // AccountLimit defines a usage limit imposed on account
