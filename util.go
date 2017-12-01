@@ -5,7 +5,7 @@
 package circonusgometrics
 
 import (
-	"github.com/circonus-labs/circonusllhist"
+	"github.com/redhotpenguin/circonusllhist"
 )
 
 // Reset removes all existing counters and gauges.
